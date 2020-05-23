@@ -1,1 +1,16 @@
-﻿  main.vcxproj -> D:\cs4247_1920S2_assign1_todo\cs4247_1920S2_assign1_todo\Debug\main.exe
+﻿  drawable.cpp
+  glslprogram.cpp
+  glutils.cpp
+  trackball.cc
+  vbocube.cpp
+  vbomesh.cpp
+  vbomeshadj.cpp
+  vboplane.cpp
+  vbosphere.cpp
+  vbosphere2.cpp
+  vboteapot.cpp
+  vboteapotpatch.cpp
+  vbotorus.cpp
+  main.cpp
+  Generating Code...
+  main.vcxproj -> D:\cs4247_1920S2_assign1_todo\cs4247_1920S2_assign1_todo\BumpMappingAndTexturing\Debug\main.exe
